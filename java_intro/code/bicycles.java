@@ -1,3 +1,4 @@
+package code;
 /** cd into file folder then run: javac bicycles.java */
 /** afterwords run java BicycleDemo */
 
